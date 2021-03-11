@@ -1,0 +1,8 @@
+<style type="text/css" media="print">
+#imprimir {
+visibility:hidden
+}
+</style>
+
+<input name="imprimir" id="imprimir" onclick="window.print();"
+type="button" value="Imprimir"/>
